@@ -1,0 +1,19 @@
+{
+    "name": "dgtal/sistemas-web",
+    "type": "library",
+    "require": {
+        "php": ">=7.0.0",
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "authors": [
+        {
+            "name": "Rodrigo",
+            "email": "rmunoz.coder@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "DGtal\\SistemasWeb\\": ""
+        }
+    }
+}
